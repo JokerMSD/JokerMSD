@@ -6,7 +6,7 @@
 
 Minha carreira profissional atualmente inclui um processo de aprendizado na empresa Oi S.A.
 
-Estou sempre buscando oportunidades para aplicar e expandir minhas habilidades, seja em projetos de sistemas desktop, desenvolvimento de automações.
+Estou sempre buscando oportunidades para aplicar e expandir minhas habilidades, seja em projetos de sistemas desktop ou desenvolvimento de automações.
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-silvaas/)
