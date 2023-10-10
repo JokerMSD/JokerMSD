@@ -23,7 +23,7 @@ Estou sempre buscando oportunidades para aplicar e expandir minhas habilidades, 
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,tailwind,sass,nodejs,figma,github,insomnia,visualstudio," />
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,tailwind,sass,nodejs,figma,github,postman,visualstudio," />
 </a>
   <br />
 
