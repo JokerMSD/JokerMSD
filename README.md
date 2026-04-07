@@ -66,8 +66,8 @@ Sou um **Desenvolvedor Full Stack apaixonado por criar experiências digitais mo
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JokerMSD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JokerMSD&layout=compact&langs_count=8&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JokerMSD&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JokerMSD&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </div>
 
@@ -76,7 +76,7 @@ Sou um **Desenvolvedor Full Stack apaixonado por criar experiências digitais mo
 # 🏆 Conquistas
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JokerMSD&theme=dracula&row=1&column=6&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JokerMSD&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </div>
 
 ---
@@ -94,7 +94,7 @@ Sou um **Desenvolvedor Full Stack apaixonado por criar experiências digitais mo
 # 👀 Visitas
 
 <div align="center">
-<img src="https://profile-counter.glitch.me/JokerMSD/count.svg"/>
+<img src="https://komarev.com/ghpvc/?username=JokerMSD&style=for-the-badge&color=blueviolet"/>
 </div>
 
 ---
