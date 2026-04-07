@@ -12,9 +12,9 @@
 
 Sou um **Desenvolvedor Full Stack apaixonado por criar experiências digitais modernas**, com forte foco em **Front-End, arquitetura escalável, APIs e produtos SaaS**.
 
-🎓 Atualmente estudo **Desenvolvimento Full Stack pelo SENAI-SP e Kenzie Academy**  
-🏢 Em evolução profissional dentro da **Oi S.A.**  
-🚀 Sempre construindo soluções reais com foco em **performance, usabilidade e resultado**
+🎓 **Formado em Desenvolvimento Full Stack pela Kenzie Academy e SENAI-SP**  
+🚀 Hoje focado em **projetos próprios, freelas e construção de produtos digitais escaláveis**  
+🧠 Sempre evoluindo em **performance, UX, backend e automações inteligentes**
 
 ### ⚡ Especialidades
 - 🎨 Interfaces modernas e responsivas
@@ -68,18 +68,6 @@ Sou um **Desenvolvedor Full Stack apaixonado por criar experiências digitais mo
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JokerMSD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JokerMSD&layout=compact&langs_count=8&theme=dracula"/>
-
-</div>
-
----
-
-# 📊 Analytics
-
-<div align="center">
-
-| ⏱️ Produtividade | 📋 Perfil |
-|---|---|
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JokerMSD&theme=dracula&utcOffset=-3) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JokerMSD&theme=dracula) |
 
 </div>
 
